@@ -1,0 +1,16 @@
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\bin\Debug\netcoreapp3.1\Worker.exe
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\bin\Debug\netcoreapp3.1\Worker.deps.json
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.json
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.dev.json
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\bin\Debug\netcoreapp3.1\Worker.dll
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\bin\Debug\netcoreapp3.1\Worker.pdb
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfoInputs.cache
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfo.cs
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CoreCompileInputs.cache
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CopyComplete
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\obj\Debug\netcoreapp3.1\Worker.dll
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\obj\Debug\netcoreapp3.1\Worker.pdb
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\obj\Debug\netcoreapp3.1\Worker.genruntimeconfig.cache
+D:\repos\rabbitmq\rabbitmq-work-queues\Worker\obj\Debug\netcoreapp3.1\Worker.csprojAssemblyReference.cache
